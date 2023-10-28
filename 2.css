@@ -70,18 +70,20 @@ li a:hover{
     font-size: 55px;
     font-weight: bolder;
 }
-.fa {
+.ok {
     position: fixed;
-    top: 80%;
+    top: 70%;
     left: 50%;
-    font-size: 60px;
+    text-align: center;
     transform: translate(-50%, -50%);
+    padding: 0 10px;
     background-color: aliceblue;
     border-radius: 30px;
+    font-size: 50px;
 }
 .me{
     position: fixed;
-    top: 30%;
+    top: 40%;
     left: 50%;
     text-align: center;
     transform: translate(-50%, -50%);
