@@ -72,7 +72,7 @@ li a:hover{
 }
 .fa {
     position: fixed;
-    top: 60%;
+    top: 80%;
     left: 50%;
     font-size: 60px;
     transform: translate(-50%, -50%);
@@ -81,7 +81,7 @@ li a:hover{
 }
 .me{
     position: fixed;
-    top: 40%;
+    top: 30%;
     left: 50%;
     text-align: center;
     transform: translate(-50%, -50%);
